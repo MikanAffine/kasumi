@@ -1,0 +1,10 @@
+[book]
+src = "src"
+language = "zh-cn"
+multilingual = false
+title = "Kasumi Plugin Development Tutorial"
+authors = ["Mochizuki Haruka"]
+description = "The example book covers examples."
+
+[build]
+create-missing = false
