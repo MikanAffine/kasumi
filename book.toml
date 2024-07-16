@@ -8,3 +8,6 @@ description = "The example book covers examples."
 
 [build]
 create-missing = false
+
+[output.html]
+git-repository-url = "https://github.com/MikanAffine/kasumi/"
